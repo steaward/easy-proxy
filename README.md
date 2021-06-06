@@ -5,6 +5,7 @@ Mass proxy distribution made easy with the DigitalOcean API
 npm install.
 npm start.
 
+![image](https://user-images.githubusercontent.com/25018435/120934486-6c727300-c6cc-11eb-99f6-6d674d65abdd.png)
 
 easy-proxy requires [Node.js](http://nodejs.org/).
 
