@@ -2,6 +2,8 @@
 Mass proxy distribution made easy with the DigitalOcean API
 
 Only works with Ubutunu at the moment. Uses squid3 as the fowarding proxy on the server.
+Make sure you've got a do api key.
+it's $5 a month./ 1000GB per IP.
 
 ### Setup (for development)
 npm install.
