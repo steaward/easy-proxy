@@ -2,6 +2,9 @@
 Mass proxy distribution made easy with the DigitalOcean API
 
 ### Setup (for development)
+npm install.
+npm start.
+
 
 easy-proxy requires [Node.js](http://nodejs.org/).
 
