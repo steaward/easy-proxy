@@ -1,6 +1,8 @@
 # easy-proxy
 Mass proxy distribution made easy with the DigitalOcean API
 
+Only works with Ubutunu at the moment. Uses squid3 as the fowarding proxy on the server.
+
 ### Setup (for development)
 npm install.
 npm start.
@@ -9,7 +11,7 @@ npm start.
 
 easy-proxy requires [Node.js](http://nodejs.org/).
 
-Development Setup:
+
 ## License
 
 ```
