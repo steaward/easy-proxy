@@ -1,4 +1,6 @@
 # easy-proxy
+Forked an old project and made it work again.
+
 Mass proxy distribution made easy with the DigitalOcean API
 
 Only works with Ubutunu at the moment. Uses squid3 as the fowarding proxy on the server.
